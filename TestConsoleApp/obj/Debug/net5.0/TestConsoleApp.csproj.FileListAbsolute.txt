@@ -1,0 +1,16 @@
+C:\projects\csharp\TestConsoleApp\bin\Debug\net5.0\TestConsoleApp.exe
+C:\projects\csharp\TestConsoleApp\bin\Debug\net5.0\TestConsoleApp.deps.json
+C:\projects\csharp\TestConsoleApp\bin\Debug\net5.0\TestConsoleApp.runtimeconfig.json
+C:\projects\csharp\TestConsoleApp\bin\Debug\net5.0\TestConsoleApp.runtimeconfig.dev.json
+C:\projects\csharp\TestConsoleApp\bin\Debug\net5.0\TestConsoleApp.dll
+C:\projects\csharp\TestConsoleApp\bin\Debug\net5.0\ref\TestConsoleApp.dll
+C:\projects\csharp\TestConsoleApp\bin\Debug\net5.0\TestConsoleApp.pdb
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.csproj.AssemblyReference.cache
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.AssemblyInfoInputs.cache
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.AssemblyInfo.cs
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.csproj.CoreCompileInputs.cache
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.dll
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\ref\TestConsoleApp.dll
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.pdb
+C:\projects\csharp\TestConsoleApp\obj\Debug\net5.0\TestConsoleApp.genruntimeconfig.cache
