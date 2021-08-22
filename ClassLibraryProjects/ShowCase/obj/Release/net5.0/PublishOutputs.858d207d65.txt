@@ -1,0 +1,7 @@
+C:\projects\csharp\ClassLibraryProjects\Демонстрация\bin\Release\net5.0\publish\ShowCase.exe
+C:\projects\csharp\ClassLibraryProjects\Демонстрация\bin\Release\net5.0\publish\ShowCase.dll
+C:\projects\csharp\ClassLibraryProjects\Демонстрация\bin\Release\net5.0\publish\ShowCase.deps.json
+C:\projects\csharp\ClassLibraryProjects\Демонстрация\bin\Release\net5.0\publish\ShowCase.runtimeconfig.json
+C:\projects\csharp\ClassLibraryProjects\Демонстрация\bin\Release\net5.0\publish\ShowCase.pdb
+C:\projects\csharp\ClassLibraryProjects\Демонстрация\bin\Release\net5.0\publish\StringLibrary.dll
+C:\projects\csharp\ClassLibraryProjects\Демонстрация\bin\Release\net5.0\publish\StringLibrary.pdb

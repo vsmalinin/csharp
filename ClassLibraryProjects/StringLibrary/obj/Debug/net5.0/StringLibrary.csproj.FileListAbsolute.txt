@@ -1,0 +1,12 @@
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\StringLibrary.deps.json
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\StringLibrary.dll
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\ref\StringLibrary.dll
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\bin\Debug\net5.0\StringLibrary.pdb
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.csproj.AssemblyReference.cache
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.AssemblyInfoInputs.cache
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.AssemblyInfo.cs
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.dll
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\ref\StringLibrary.dll
+C:\projects\csharp\ClassLibraryProjects\StringLibrary\obj\Debug\net5.0\StringLibrary.pdb
