@@ -1,0 +1,16 @@
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\bin\Debug\net5.0\CheckCrossCircle.exe
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\bin\Debug\net5.0\CheckCrossCircle.deps.json
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\bin\Debug\net5.0\CheckCrossCircle.runtimeconfig.json
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\bin\Debug\net5.0\CheckCrossCircle.runtimeconfig.dev.json
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\bin\Debug\net5.0\CheckCrossCircle.dll
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\bin\Debug\net5.0\ref\CheckCrossCircle.dll
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\bin\Debug\net5.0\CheckCrossCircle.pdb
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.csproj.AssemblyReference.cache
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.AssemblyInfoInputs.cache
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.AssemblyInfo.cs
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.csproj.CoreCompileInputs.cache
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.dll
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\ref\CheckCrossCircle.dll
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.pdb
+C:\projects\csharp\CheckCrossCircle\CheckCrossCircle\obj\Debug\net5.0\CheckCrossCircle.genruntimeconfig.cache
