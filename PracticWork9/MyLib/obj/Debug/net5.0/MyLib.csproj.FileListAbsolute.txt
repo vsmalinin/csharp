@@ -1,0 +1,11 @@
+C:\projects\csharp\PracticWork9\MyLib\bin\Debug\net5.0\MyLib.deps.json
+C:\projects\csharp\PracticWork9\MyLib\bin\Debug\net5.0\MyLib.dll
+C:\projects\csharp\PracticWork9\MyLib\bin\Debug\net5.0\ref\MyLib.dll
+C:\projects\csharp\PracticWork9\MyLib\bin\Debug\net5.0\MyLib.pdb
+C:\projects\csharp\PracticWork9\MyLib\obj\Debug\net5.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\csharp\PracticWork9\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfoInputs.cache
+C:\projects\csharp\PracticWork9\MyLib\obj\Debug\net5.0\MyLib.AssemblyInfo.cs
+C:\projects\csharp\PracticWork9\MyLib\obj\Debug\net5.0\MyLib.csproj.CoreCompileInputs.cache
+C:\projects\csharp\PracticWork9\MyLib\obj\Debug\net5.0\MyLib.dll
+C:\projects\csharp\PracticWork9\MyLib\obj\Debug\net5.0\ref\MyLib.dll
+C:\projects\csharp\PracticWork9\MyLib\obj\Debug\net5.0\MyLib.pdb
