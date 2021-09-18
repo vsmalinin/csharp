@@ -26,8 +26,6 @@ namespace HelloWorld
                 Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}! Некорректный аргумент, не могу вычислить сумму.");
                 return 1;
             }
-            //Console.Write($"{Environment.NewLine}Press any key to exit...");
-            //Console.ReadKey(true);
         }
     }
 }
