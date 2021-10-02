@@ -1,0 +1,16 @@
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.csproj.AssemblyReference.cache
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.AssemblyInfoInputs.cache
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.AssemblyInfo.cs
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.csproj.CoreCompileInputs.cache
+C:\projects\csharp\FormalNeuron\FormalNeuron\bin\Debug\net5.0\FormalNeuron.exe
+C:\projects\csharp\FormalNeuron\FormalNeuron\bin\Debug\net5.0\FormalNeuron.deps.json
+C:\projects\csharp\FormalNeuron\FormalNeuron\bin\Debug\net5.0\FormalNeuron.runtimeconfig.json
+C:\projects\csharp\FormalNeuron\FormalNeuron\bin\Debug\net5.0\FormalNeuron.runtimeconfig.dev.json
+C:\projects\csharp\FormalNeuron\FormalNeuron\bin\Debug\net5.0\FormalNeuron.dll
+C:\projects\csharp\FormalNeuron\FormalNeuron\bin\Debug\net5.0\ref\FormalNeuron.dll
+C:\projects\csharp\FormalNeuron\FormalNeuron\bin\Debug\net5.0\FormalNeuron.pdb
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.dll
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\ref\FormalNeuron.dll
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.pdb
+C:\projects\csharp\FormalNeuron\FormalNeuron\obj\Debug\net5.0\FormalNeuron.genruntimeconfig.cache
